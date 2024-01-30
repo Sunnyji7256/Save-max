@@ -5,7 +5,7 @@
 
 Follow On Github         
 <a align="center">
-<a href="https://github.com/Sunnysaloni"><img height="40px" title="Github" src="https://img.shields.io/badge/Sunny-saloni-brightgreen?style=for-the-badge&logo=github"></a>               
+<a href="https://github.com/Sunnysaloni"><img height="40px" title="Github" src="https://img.shields.io/badge/Sunny-saloni-blue?style=for-the-badge&logo=github"></a>               
 Telegram Channel          
 <a align="center">
 <a href="https://t.me/Noob_to_pro_hack"><img height="40px" title="Telegram" src="https://img.shields.io/badge/Hacking by-Noob hacker-red?style=for-the-badge&logo=telegram"></a>
@@ -16,5 +16,5 @@ Telegram I'd
  
 # Deploy on heroku
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Sunnysaloni/Save-max">
-     <img height="100px" src="https://img.shields.io/badge/Deploy%20on%20Heroku-pink?style=for-the-badge&logo=heroku">
+     <img height="100px" src="https://img.shields.io/badge/Deploy%20on%20Heroku-Green?style=for-the-badge&logo=heroku">
   </a>
