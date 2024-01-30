@@ -1,4 +1,6 @@
-
+#https://github.com/Sunnysaloni
+#https://t.me/Noob_to_pro_hack
+#https://t.me/Sunny_ki_duniya
 
 import math
 import os
